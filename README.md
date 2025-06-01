@@ -4,8 +4,6 @@
     </div>
     <div align=center>
        <a href="https://www.linkedin.com/in/nicolas-ortizzz/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-
-    
     <div align=left>
         <br>
         <p>
