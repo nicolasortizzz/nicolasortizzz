@@ -17,6 +17,6 @@
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://www.linkedin.com/in/nicolas-ortizzz/">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b></a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love football, Data science, and Traveling(🌍).</li>
+            <li>😄 <b>Fun fact</b>: I love football, Economics, and Traveling(🌍).</li>
         </ul>
     </div>
