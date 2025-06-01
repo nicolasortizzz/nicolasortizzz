@@ -11,6 +11,7 @@
     <h4> Languages </h4>
     <span>
         <img scr="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </span>
     <div align=left>
         <br>
         <p>
