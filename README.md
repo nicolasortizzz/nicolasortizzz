@@ -7,8 +7,10 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/nicolas-ortizzz/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <img scr="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </div>
+    <h4> Languages </h4>
+    <span>
+        <img scr="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <div align=left>
         <br>
         <p>
