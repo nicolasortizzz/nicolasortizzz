@@ -23,13 +23,7 @@
 
 
 <div>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Tomando una Taza de Café" height="200">
-    </div>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/nicolas-ortizzz/">
-            <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
-        </a>
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
     </div>
     <div align="left">
         <br>
