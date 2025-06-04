@@ -20,3 +20,30 @@
             <li>😄 <b>Fun fact</b>: I love football, Economics, and Traveling(🌍).</li>
         </ul>
     </div>
+
+
+<div>
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Tomando una Taza de Café" height="200">
+    </div>
+    <div align="center">
+        <a href="https://www.linkedin.com/in/nicolas-ortizzz/">
+            <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
+        </a>
+    </div>
+    <div align="left">
+        <br>
+        <p>
+            <strong>
+                Economista detallista, responsable y comprometido, con espíritu de hacer las cosas, a tiempo y con alta calidad. Aprendiz rápido e independiente, automotivado y sociable.
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>Actualmente estoy finalizando mi carrera</b>: Economista en la Universidad de Buenos Aires.</li>
+            <li>📫 <b>Cómo contactarme</b>: Sígueme a través de los enlaces anteriores 👆, además de seguirme aquí.</li>
+            <li>🤔 <b>Actualmente estoy abierto a</b>: Una nueva oportunidad laboral, <a href="https://www.linkedin.com/in/nicolas-ortizzz/">ENLACE A MI CV</a>.</li>
+            <li>💬 <b>Pregúntame sobre lo que quieras</b>.</li>
+            <li>😄 <b>Dato curioso</b>: Me encanta el fútbol, la Economía y viajar (🌍).</li>
+        </ul>
+    </div>
+</div>
