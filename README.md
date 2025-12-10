@@ -15,7 +15,6 @@
             <li> Economist in the University Of Buenos Aires.</li>
             <li>💬 <b>Ask me about anything</b></a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love football, Economics, and Traveling(🌍).</li>
         </ul>
     </div>
 
@@ -33,8 +32,7 @@
         <ul>
             <li> Economista en la Universidad de Buenos Aires.</li>
             <li>📫 <b>Cómo contactarme</b>: Sígueme a través de los enlaces anteriores 👆, además de seguirme aquí.</li>
-            <li>💬 <b>Pregúntame sobre lo que quieras</b>.</li>
-            <li>😄 <b>Dato curioso</b>: Me encanta el fútbol, la Economía y viajar (🌍).</li>
+            <li>💬 <b>Pregúntame sobre lo que quieras</b>.</li
         </ul>
     </div>
 </div>
