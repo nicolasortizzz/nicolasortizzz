@@ -7,9 +7,7 @@
     <div align=left>
         <br>
         <p>
-            <strong>
-                Detailed-oriented, responsible, and committed economist, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-            </strong>
+
         </p>
         <ul>
             <li> Economist in the University Of Buenos Aires.</li>
@@ -25,9 +23,7 @@
     <div align="left">
         <br>
         <p>
-            <strong>
-                Economista detallista, responsable y comprometido, con espíritu de hacer las cosas, a tiempo y con alta calidad. Aprendiz rápido e independiente, automotivado y sociable.
-            </strong>
+
         </p>
         <ul>
             <li> Economista en la Universidad de Buenos Aires.</li>
