@@ -21,6 +21,9 @@ Economist (University of Buenos Aires). Portfolio Financial Advisor at **EY**, b
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Machine learning (current focus):** Tuning gradient boosting, neural network, and k-nearest neighbors models for risk detection on US-based project work — including backend and frontend implementation and a weekly automated data refresh pipeline.
 
 ## Featured projects
 
@@ -30,14 +33,12 @@ Economist (University of Buenos Aires). Portfolio Financial Advisor at **EY**, b
 | [Real-Estate-Buenos-Aires](https://github.com/nicolasortizzz/Real-Estate-Buenos-Aires) | Buenos Aires real estate market analysis with neural networks |
 | [ETFs](https://github.com/nicolasortizzz/ETFs) | ETF growth dynamics and cross-market correlations |
 | [modelo_predictivo_tarjeta_credito](https://github.com/nicolasortizzz/modelo_predictivo_tarjeta_credito) | Machine learning model for credit card approval |
-| [Armesto-y-asociados](https://github.com/nicolasortizzz/Armesto-y-asociados) | Website for an accounting firm |
+
+Applied ML in production-style setups: model tuning (gradient boosting, neural nets, k-NN), full-stack delivery, and recurring data pipelines — aligned with the risk-detection work described above.
 
 ## Currently
 
 - Risk reporting, statistical modeling, and automation at **EY**
 - **Actuarial Science** (UBA)
+- **Machine learning:** Gradient boosting, neural networks, and k-nearest neighbors for risk detection on US-based projects — backend and frontend implementation plus a weekly data refresh pipeline
 - Side projects in finance, real estate analytics, and applied ML
-
-## GitHub stats
-
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasortizzz&show_icons=true&hide_border=true&theme=default)
