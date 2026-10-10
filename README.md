@@ -1,44 +1,43 @@
-<div>
-  <div align="center">
-    <img
-      src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png"
-      alt="GitHub Octocat Drinking a Cup of Coffee"
-      height="200"
-    />
-  </div>
+# Economist & Financial Analyst | Data Science & BI | Buenos Aires
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/nicolas-ortizzz/">
-      <img
-        src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"
-        alt="LinkedIn"
-      />
-    </a>
-  </div>
+Economist (University of Buenos Aires). Portfolio Financial Advisor at **EY**, building risk reporting with statistical models, revenue and variance analysis, and process automation. Currently studying **Actuarial Science** at UBA.
 
-  <div align="left">
-    <br />
-    <ul>
-      <li>Economist at the University of Buenos Aires.</li>
-      <li>💬 <b>Ask me about anything</b>.</li>
-      <li>
-        📫 <b>How to reach me</b>: Catch and follow me from the above links 👆,
-        in addition to following me here.
-      </li>
-    </ul>
-  </div>
+*Economista (UBA) — analizando riesgo, datos y mercados desde Buenos Aires.*
 
-  <hr />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ortizzz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=gamma&logoColor=white)](https://datos-y-real-estate-ar-dv4osco.gamma.site/)
 
-  <div align="left">
-    <br />
-    <ul>
-      <li>Economista en la Universidad de Buenos Aires.</li>
-      <li>
-        📫 <b>Cómo contactarme</b>: Seguime a través de los enlaces anteriores 👆,
-        además de seguirme acá.
-      </li>
-      <li>💬 <b>Pregúntame sobre lo que quieras</b>.</li>
-    </ul>
-  </div>
-</div>
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel / VBA](https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=power-automate&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C9?style=flat&logo=alteryx&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+## Featured projects
+
+| Project | Description |
+| --- | --- |
+| [Tesina-de-grado](https://github.com/nicolasortizzz/Tesina-de-grado) | Undergraduate thesis: fundamental analysis and Markowitz portfolio optimization |
+| [Real-Estate-Buenos-Aires](https://github.com/nicolasortizzz/Real-Estate-Buenos-Aires) | Buenos Aires real estate market analysis with neural networks |
+| [ETFs](https://github.com/nicolasortizzz/ETFs) | ETF growth dynamics and cross-market correlations |
+| [modelo_predictivo_tarjeta_credito](https://github.com/nicolasortizzz/modelo_predictivo_tarjeta_credito) | Machine learning model for credit card approval |
+| [Armesto-y-asociados](https://github.com/nicolasortizzz/Armesto-y-asociados) | Website for an accounting firm |
+
+## Currently
+
+- Risk reporting, statistical modeling, and automation at **EY**
+- **Actuarial Science** (UBA)
+- Side projects in finance, real estate analytics, and applied ML
+
+## GitHub stats
+
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasortizzz&show_icons=true&hide_border=true&theme=default)
